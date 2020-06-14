@@ -4,7 +4,7 @@
     "status_code": 200,
     "response": {
         "eb26d6a5565fcbed48cb895120125c1d": [
-            [
+            
                 {
                     "time": "2020-05-12T11:49:46.353106Z",
                     "energyConsumed": "200"
@@ -30,6 +30,6 @@
                     "energyConsumed": "240"
                 }
             ]
-        ]
+        
     }
 }
