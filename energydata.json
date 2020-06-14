@@ -1,0 +1,35 @@
+{
+    "message": "List of sensor data",
+    "status": true,
+    "status_code": 200,
+    "response": {
+        "eb26d6a5565fcbed48cb895120125c1d": [
+            [
+                {
+                    "time": "2020-05-12T11:49:46.353106Z",
+                    "energyConsumed": "200"
+                },
+                {
+                    "time": "2020-05-12T11:49:53.416455Z",
+                    "energyConsumed": "202"
+                },
+                {
+                    "time": "2020-05-12T11:49:58.926774Z",
+                    "energyConsumed": "215"
+                },
+                {
+                    "time": "2020-05-12T11:50:03.394865Z",
+                    "energyConsumed": "221"
+                },
+                {
+                    "time": "2020-05-12T11:50:07.024788Z",
+                    "energyConsumed": "226"
+                },
+                {
+                    "time": "2020-05-12T11:50:10.757800Z",
+                    "energyConsumed": "240"
+                }
+            ]
+        ]
+    }
+}
